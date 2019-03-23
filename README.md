@@ -6,3 +6,5 @@ Note: This setup is only tested on a macOS.
 ```bash
 conda env create --file environment.yml
 ```
+
+Note: Please change directory for each question when running scripts/notebooks
