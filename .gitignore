@@ -1,3 +1,6 @@
+*.ipynb_checkpoints
+
 mobilenet/*
 !mobilenet/custom_labels.txt
+!mobilenet/imagenet_1k_label_map.pkl
 !mobilenet/*.tar.gz
