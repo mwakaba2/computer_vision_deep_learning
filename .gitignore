@@ -1,0 +1,3 @@
+mobilenet/*
+!mobilenet/custom_labels.txt
+!mobilenet/*.tar.gz
