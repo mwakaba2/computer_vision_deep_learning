@@ -1,4 +1,4 @@
-# Polarr CV/DL Engineer Assignment
+# Computer Vision Deep Learning Work Assignment
 ## Setting up python environment
 Note: This setup is only tested on a macOS.
 
